@@ -8,3 +8,5 @@ public Class Sum
         System.out.println("The Sum is "+(a+b));
     }
 }
+
+//this is addtion class
