@@ -8,3 +8,4 @@ public class Subtraction
        System.out.println("Subtraction is: "+ (a-b));
    }
 }
+//This is subtraction class
